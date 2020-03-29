@@ -8,8 +8,8 @@ public class xiaolu001 {
         System.out.println("yy");
     }
 
-    //dev分支下开发的
-    public  boolean get(){
+
+    public  boolean show(){
         return false;
     }
 
