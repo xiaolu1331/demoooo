@@ -7,4 +7,8 @@ public class xiaolu001 {
     public static void main(String[] args) {
         System.out.println("yyyyyyyyyyyyxxx");
     }
+     public boolean expire(String name,Long number){
+        System.out.println("bbbbbbbbbbbbb");
+        return true;
+    }
 }
