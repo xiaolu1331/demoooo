@@ -7,7 +7,7 @@ public class xiaolu001 {
     public static void main(String[] args) {
         System.out.println("yyyyyyyyyyyyxxx");
     }
-    public boolean expire(String name,Long num){
+    public boolean expireee(String name,Long num){
         System.out.println("rrrrrrrrrrrrrrrrrddddd");
         return true;
     }
