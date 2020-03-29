@@ -9,6 +9,8 @@ public class xiaolu001 {
     }
     public boolean expire(String name,String num){
         System.out.println("ddddd");
+    public boolean expire(String name,String num){
+        System.out.println("rr");
         return true;
     }
 }
