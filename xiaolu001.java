@@ -7,10 +7,12 @@ public class xiaolu001 {
     public static void main(String[] args) {
         System.out.println("yyyyyyyyyyyyxxx");
     }
-    public boolean expire(String name,String num){
+    public boolean expire(String name,String num) {
         System.out.println("ddddd");
-    public boolean expire(String name,String num){
-        System.out.println("rr");
         return true;
     }
+   /* public boolean expire(String name,String num){
+        System.out.println("rr");
+        return true;
+    }*/
 }
