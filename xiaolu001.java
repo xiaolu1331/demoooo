@@ -9,7 +9,7 @@ public class xiaolu001 {
     }
 
     //dev分支下开发的
-    public  boolean get(){
+    public  boolean getK(){
         return false;
     }
 
