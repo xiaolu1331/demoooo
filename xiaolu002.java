@@ -9,5 +9,8 @@ public class xiaolu002 {
     }
 
 
-
+    public  boolean getKKKK(){
+        System.out.println("cccccccccc");
+        return false;
+    }
 }
