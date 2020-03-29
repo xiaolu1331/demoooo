@@ -5,14 +5,7 @@ package com.example.demo.demooo.demo;
  */
 public class xiaolu001 {
     public static void main(String[] args) {
-        System.out.println("yyyyyyyyyyyyxxx");
+        System.out.println("yy");
     }
-    public boolean expire(String name,String num) {
-        System.out.println("ddddd");
-        return true;
-    }
-   /* public boolean expire(String name,String num){
-        System.out.println("rr");
-        return true;
-    }*/
+
 }
