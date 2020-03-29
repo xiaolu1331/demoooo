@@ -8,11 +8,11 @@ public class xiaolu002 {
         System.out.println("yy555");
     }
 
-  public  boolean getKKKK(){
+ /* public  boolean getKKKK(){
 
         return false;
     }
-
+*/
     public  boolean getKKKK(){
         System.out.println("cccccccccc");
         return false;
